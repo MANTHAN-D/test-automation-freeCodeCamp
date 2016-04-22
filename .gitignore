@@ -1,0 +1,11 @@
+#ignore the classes
+bin/
+
+#ignore .project folder
+.project
+
+#ignore .settings folder
+.settings/
+
+#ignore classpath files
+.classpath
